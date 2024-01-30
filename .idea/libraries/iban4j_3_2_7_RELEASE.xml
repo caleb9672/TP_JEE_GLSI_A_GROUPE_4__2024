@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="iban4j-3.2.7-RELEASE">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/SalleA/libs/iban4j-3.2.7-RELEASE.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
